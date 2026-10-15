@@ -1,0 +1,5 @@
+name = input("What is your name: ")
+print("My name is " + name)
+print("Hi " + name + ", how are you?")
+user=input()
+print("Ok "+ name + ", Have a good day")
